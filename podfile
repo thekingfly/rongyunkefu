@@ -1,0 +1,8 @@
+
+platform :ios, ‘7.0’
+use_frameworks!
+target ‘XFG融云客服’ do
+
+pod 'MBProgressHUD', '~> 0.8'
+
+end
